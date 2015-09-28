@@ -1,0 +1,1 @@
+*:journalehsan@gmail.com:PasswordOfmyMailIsSecret

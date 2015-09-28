@@ -1,0 +1,7 @@
+            'username' => 'cakephp',
+            'password' => 'cakephp',
+            'database' => 'cakephp',
+            'encoding' => 'utf8',
+            'timezone' => 'UTC',
+            'cacheMetadata' => true,
+            'log' => false,

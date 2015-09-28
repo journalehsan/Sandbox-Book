@@ -1,0 +1,9 @@
+; Custom shared config
+; priority=01
+error_reporting = E_ALL
+display_errors = On
+error_log = /var/log/php_errors.log
+log_errors_max_len = 0
+memory_limit = 256M
+post_max_size = 100M
+upload_max_filesize = 100M 

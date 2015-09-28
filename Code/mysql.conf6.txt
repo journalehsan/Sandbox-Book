@@ -1,0 +1,5 @@
+ehsan@sandbox ~ % sudo service mysql restart 
+[sudo] password for ehsan: 
+mysql stop/waiting
+mysql start/running, process 2668
+ehsan@sandbox ~ % 

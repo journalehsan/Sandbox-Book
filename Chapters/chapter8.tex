@@ -1,0 +1,99 @@
+\chapter{افزودن قابلیتهای بیشتر به PHP}
+در فصل قبل تقریبا تمامی مواردی را که برای اجرای یک سرور در سندباکس، نیاز بود را بررسی و نصب کردیم. از مای‌اس‌کیوال تا نرم‌افزاری جهت مدیریت سرور که تقریبا اکثر آنان را به شکل دلخواه تنظیم و سفارشی نمودیم. از این پس اگر هر برنامه مبتنی بر وبی را با استفاده از زبان پی‌اچ‌پی بنویسید؛ در داخل سند‌باکس اوبونتو سرور قابلیت اجرا خواهد داشت. برای آزمایش این سندباکس می‌توانید؛ نرم‌افزار وردپرس را دانلود کرده و در سندباکس نصب کنید.
+
+اکثر اوقات نیاز داریم پروژه‌های خود را به نحو بهتری کنترل نسخه و یا مدیریت کنیم؛ نرم‌افزار گیت یکی از نرم‌افزارهای مطرح برای مدیریت و کنترل نسخه پروژه‌ها است؛ در این آموزش به نحوه نصب، تنظیم و استفاده از این نرم‌افزار در اوبونتو سرور خواهیم پرداخت. علاوه بر این سعی خواهیم کرد ابزارهای بیشتری را برای مدیریت پروژه آزمایش و تنظیم کنیم تا در مورد نوشتن برنامه‌های بزرگتر در سندباکس مشکل خاصی نداشته باشیم. مدیریت خطا و اشکالات از کدهای نوشته شده نیز یکی از مهمترین بخش‌هایی است که بعد از انجام یک پروژه باید توسط توسعه دهنده یا افراد دیگر انجام شود؛ محیط سندباکس محیط خوبی برای اشکال زدایی و رفع باگ از پروژه‌های مبتنی بر وب است که نحوه نصب چند ابزار و رفع باگ از کدهای پی‌اچ‌پی را در اوبونتو سرور نیز به صورت عمیق تر آموزش خواهیم داد.
+\section{نصب چند ابزار برای مدیریت و نصب برخی اجزاء پی‌اچ‌پی}
+برای نصب اجزاء و برخی ماژول‌های مورد استفاده در پی‌اچ‌پی از ابزار 
+\lr{«PEAR»}
+ و 
+\lr{«PECL»}
+  استفاده می‌شود.  ابزار مذکور به راحتی در اوبونتو و از طریق مخازن قابل نصب هستند برای نصب ابزار مذکور در خط فرمان دستورات زیر را وارد کنید.
+\newline
+
+\begin{latin}  
+    \lstinputlisting[numbers=right,language=SH, framexleftmargin=5mm, frame=shadowbox,rulesepcolor=\color{Black}]{Code/composer.sh}
+\end{latin}
+
+اگر ابزار بالا با موفقیت نصب شدند، با استفاده از دستورات «sudo pear» و «sudo pecl» خواهید توانست، اجزاء و ماژو‌ل‌های مورد نیاز خود را برای استفاده در پی‌اچ‌پی بارگیری و نصب کنید؛ بعد از آن با استفاده از دستورات فعال و غیر فعال کردن ماژول در پی‌اچ‌پی باید این ماژول‌ها را فعال کنید؛ در برخی مواقع علاوه بر فعال کردن ماژول مرتبط را باید در تنظیمات 
+\path{«php.ini»} 
+آن جزء یا ماژول نیز تنظیم شود.
+\lr{«PECL»} 
+ابزاری است که برای نصب  افزونه‌های پی‌اچ‌پی کاربرد داشته و در زمانی که 
+\lr{«PEAR»}
+ نصب می‌شود؛ این ابزار نیز در سیستم نصب خواهد شد. تفاوت اصلی این دو ابزار در این است که این ابزار کدها را که به زبان سی هستند  را دریافت کرده  و بعد از کامپایل در سیستم نصب می‌کند. به عنوان نمونه یکی از نرم‌افزارهای کاربردی که ممکن است در سرور اوبونتو نصب شود؛ نرم‌افزار دروپال است که به یک ماژول خاص برای بارگزاری «Upload» اطلاعات نیاز دارد. برای نصب این ماژول دستور زیر را اجرا می‌کنیم. \ref{PHP-COMPOSER}
+
+
+\begin{figure}
+    \includegraphics[width=.50\textwidth ,height=.60\textwidth]{Pic/COMPOSER}
+    \caption{ 
+        \lr{(PHP Composer)}   
+    }
+    \label{PHP-COMPOSER}
+\end{figure}
+
+\begin{latin}  
+    \lstinputlisting[numbers=right,language=SH, framexleftmargin=5mm, frame=shadowbox,rulesepcolor=\color{Black}]{Code/composer2.sh}
+    \end{latin}
+ برای آنکه این ماژول در سیستم فعال باشد باید تغییراتی را در تنظیمات پی‌اچ‌پی انجام دهیم. برای اینکار از دستور زیر استفاده می‌کنیم تا تنظیمات جدیدی را برای این ماژول بسازیم.
+\newline
+
+\begin{latin}  
+    \lstinputlisting[numbers=right,language=SH, framexleftmargin=5mm, frame=shadowbox,rulesepcolor=\color{Black}]{Code/composer3.sh}
+\end{latin}
+
+سپس مقادیر زیر را در آن وارد کرده و با کلید‌های میانبر 
+\path{«CTRL + X»}
+، و نوشتن واژه وای «Y» ویرایشگر متن نانو را بسته و فایل را ذخیره می‌کنیم. بعد از ذخیره فایل فوق باید ماژول ایجاد شده را با استفاده از دستور زیر فعال کنیم.
+\newline
+
+\begin{latin}  
+    \lstinputlisting[numbers=right,language=SH, framexleftmargin=5mm, frame=shadowbox,rulesepcolor=\color{Black}]{Code/composer4.sh}
+\end{latin}
+دستور فعال کردن ماژول برای پی‌اچ‌پی به شکل زیر است.
+\newline
+
+\begin{latin}  
+    \lstinputlisting[numbers=right,language=SH, framexleftmargin=5mm, frame=shadowbox,rulesepcolor=\color{Black}]{Code/composer5.sh}
+\end{latin}
+سپس بعد از آنکه ماژول فوق با موفقیت فعال شد، باید کارساز وب آپاچی۲ را نیز مجددا راه‌اندازی کنید. برای را‌اندازی مجدد آپاچی از دستور زیر استفاده کنید.
+\newline
+
+\begin{latin}  
+    \lstinputlisting[numbers=right,language=SH, framexleftmargin=5mm, frame=shadowbox,rulesepcolor=\color{Black}]{Code/composer6.sh}
+\end{latin}
+
+\subsection{نصب و استفاده از کومپوزر  «Composer»}
+
+برای نصب کومپوزر از نرم‌افزار کورل «CURL» که یک مدیر دانلود خط فرمانی و تحت مجوز MIT است استفاده می‌کنیم. برای دریافت ابزار مذکور دستور زیر را در خط فرمان اجرا کنید. این دستور فایل اجرایی فوق را بارگیری کرده و خروجی را به فایل پی‌اچ‌پی به وسیله نماد 
+\lr{«  | (Pipe)  »}
+ لوله‌کشی خواهد کرد.
+\newline
+
+\begin{latin}  
+    \lstinputlisting[numbers=right,language=SH, framexleftmargin=5mm, frame=shadowbox,rulesepcolor=\color{Black}]{Code/composer7.sh}
+\end{latin}
+
+حال اگر بخواهید تمامی کاربران بتوانند به آن دسترسی داشته باشند؛ باید آن را به شاخه عمومی منتقل کنیم. برای اینکار دستور زیر را در خط فرمان اجرا کنید.
+\begin{latin}  
+    \lstinputlisting[numbers=right,language=SH, framexleftmargin=5mm, frame=shadowbox,rulesepcolor=\color{Black}]{Code/composer8.sh}
+\end{latin}
+حال اگر دستور زیر را اجرا کنید باید با خروجی مشابهی روبه رو شوید.
+\newline
+
+\begin{latin}  
+    \lstinputlisting[numbers=right,language=SH, framexleftmargin=5mm, frame=shadowbox,rulesepcolor=\color{Black}]{Code/composer9.sh}
+\end{latin}
+
+با استفاده از دستور زیر و عبارت کلیدی «selfupdate» بعد از دستور «composer» می‌توان نرم‌افزار «PECL» را به‌روزرسانی کرد.
+\newline
+
+\begin{latin}  
+    \lstinputlisting[numbers=right,language=SH, framexleftmargin=5mm, frame=shadowbox,rulesepcolor=\color{Black}]{Code/composer10.sh}
+\end{latin}
+
+سپس با استفاده از دستورات زیر تغییراتی را نیز در فایل تنظیمات بش «bashrc» اعمال کنید.
+\newline
+
+\begin{latin}  
+    \lstinputlisting[numbers=right,language=SH, framexleftmargin=5mm, frame=shadowbox,rulesepcolor=\color{Black}]{Code/composer11.sh}
+\end{latin}

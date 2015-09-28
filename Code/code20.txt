@@ -1,0 +1,14 @@
+sandbox% lsmod
+Module                  Size  Used by
+vboxsf                 43786  1 
+ppdev                  17671  0 
+vboxguest             249045  2 vboxsf
+video                  19476  0 
+parport_pc             32701  0 
+serio_raw              13462  0 
+lp                     17759  0 
+parport                42348  3 lp,ppdev,parport_pc
+psmouse               106647  0 
+e1000                 145227  0 
+ahci                   34091  2 
+libahci                32716  1 ahci 

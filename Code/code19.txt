@@ -1,0 +1,12 @@
+Verifying archive integrity... All good.
+Uncompressing VirtualBox 4.3.28 Guest Additions for Linux............
+VirtualBox Guest Additions installer
+Copying additional installer modules ...
+Installing additional modules ...
+Removing existing VirtualBox DKMS kernel modules ...done.
+Removing existing VirtualBox non-DKMS kernel modules ...done.
+Building the VirtualBox Guest Additions kernel modules ...done.
+Doing non-kernel setup of the Guest Additions ...done.
+Starting the VirtualBox Guest Additions ...done.
+Installing the Window System drivers
+Could not find the X.Org or XFree86 Window System, skipping. 

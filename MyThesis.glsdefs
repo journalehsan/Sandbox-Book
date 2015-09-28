@@ -1,0 +1,1200 @@
+\ifglsentryexists{Broadcast monitoring}{}%
+{%
+\gls@defglossaryentry{Broadcast monitoring}%
+{%
+name={Broadcast monitoring},%
+sort={Broadcast monitoring},%
+type={acronym},%
+first={Broadcast monitoring},%
+firstplural={همه پخشی},%
+text={Broadcast monitoring},%
+plural={همه پخشی},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Compressed Domain}{}%
+{%
+\gls@defglossaryentry{Compressed Domain}%
+{%
+name={Compressed Domain},%
+sort={Compressed Domain},%
+type={acronym},%
+first={Compressed Domain},%
+firstplural={حوزه فشرده},%
+text={Compressed Domain},%
+plural={حوزه فشرده},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Uncompressed Domain}{}%
+{%
+\gls@defglossaryentry{Uncompressed Domain}%
+{%
+name={Uncompressed Domain},%
+sort={Uncompressed Domain},%
+type={acronym},%
+first={Uncompressed Domain},%
+firstplural={غیرفشرده},%
+text={Uncompressed Domain},%
+plural={غیرفشرده},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Perceptual Masking}{}%
+{%
+\gls@defglossaryentry{Perceptual Masking}%
+{%
+name={Perceptual Masking},%
+sort={Perceptual Masking},%
+type={acronym},%
+first={Perceptual Masking},%
+firstplural={پوشش ادراکی},%
+text={Perceptual Masking},%
+plural={پوشش ادراکی},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Motion Vector}{}%
+{%
+\gls@defglossaryentry{Motion Vector}%
+{%
+name={Motion Vector},%
+sort={Motion Vector},%
+type={acronym},%
+first={Motion Vector},%
+firstplural={بردارحرکت},%
+text={Motion Vector},%
+plural={بردارحرکت},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Spatial Domain}{}%
+{%
+\gls@defglossaryentry{Spatial Domain}%
+{%
+name={Spatial Domain},%
+sort={Spatial Domain},%
+type={acronym},%
+first={Spatial Domain},%
+firstplural={حوزه مکان},%
+text={Spatial Domain},%
+plural={حوزه مکان},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Transform Domain}{}%
+{%
+\gls@defglossaryentry{Transform Domain}%
+{%
+name={Transform Domain},%
+sort={Transform Domain},%
+type={acronym},%
+first={Transform Domain},%
+firstplural={حوزه تبدیل},%
+text={Transform Domain},%
+plural={حوزه تبدیل},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Additive}{}%
+{%
+\gls@defglossaryentry{Additive}%
+{%
+name={Additive},%
+sort={Additive},%
+type={acronym},%
+first={Additive},%
+firstplural={جمع شونده},%
+text={Additive},%
+plural={جمع شونده},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Non-addative}{}%
+{%
+\gls@defglossaryentry{Non-addative}%
+{%
+name={Non-addative},%
+sort={Non-addative},%
+type={acronym},%
+first={Non-addative},%
+firstplural={غیرجمع شونده},%
+text={Non-addative},%
+plural={غیرجمع شونده},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Feature}{}%
+{%
+\gls@defglossaryentry{Feature}%
+{%
+name={Feature},%
+sort={Feature},%
+type={acronym},%
+first={Feature},%
+firstplural={ویژگی},%
+text={Feature},%
+plural={ویژگی},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Embeding}{}%
+{%
+\gls@defglossaryentry{Embeding}%
+{%
+name={Embeding},%
+sort={Embeding},%
+type={acronym},%
+first={Embeding},%
+firstplural={درج},%
+text={Embeding},%
+plural={درج},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Adjacent}{}%
+{%
+\gls@defglossaryentry{Adjacent}%
+{%
+name={\lr {Adjacent}},%
+sort={\lr {Adjacent}},%
+type={english},%
+first={\lr {Adjacent}},%
+firstplural={مجاور},%
+text={\lr {Adjacent}},%
+plural={مجاور},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Smoothness}{}%
+{%
+\gls@defglossaryentry{Smoothness}%
+{%
+name={Smoothness},%
+sort={Smoothness},%
+type={acronym},%
+first={Smoothness},%
+firstplural={همواری},%
+text={Smoothness},%
+plural={همواری},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Regularity}{}%
+{%
+\gls@defglossaryentry{Regularity}%
+{%
+name={Regularity},%
+sort={Regularity},%
+type={acronym},%
+first={Regularity},%
+firstplural={یکنواختی},%
+text={Regularity},%
+plural={یکنواختی},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Flipping}{}%
+{%
+\gls@defglossaryentry{Flipping}%
+{%
+name={Flipping},%
+sort={Flipping},%
+type={acronym},%
+first={Flipping},%
+firstplural={پرش},%
+text={Flipping},%
+plural={پرش},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Permutation}{}%
+{%
+\gls@defglossaryentry{Permutation}%
+{%
+name={Permutation},%
+sort={Permutation},%
+type={acronym},%
+first={Permutation},%
+firstplural={جایگشتی},%
+text={Permutation},%
+plural={جایگشتی},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Least Significant Bit}{}%
+{%
+\gls@defglossaryentry{Least Significant Bit}%
+{%
+name={Least Significant Bit},%
+sort={Least Significant Bit},%
+type={acronym},%
+first={Least Significant Bit},%
+firstplural={کم ارزش ترین بیت},%
+text={Least Significant Bit},%
+plural={کم ارزش ترین بیت},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Regular groups}{}%
+{%
+\gls@defglossaryentry{Regular groups}%
+{%
+name={Regular groups},%
+sort={Regular groups},%
+type={acronym},%
+first={Regular groups},%
+firstplural={گروه های یکنواخت},%
+text={Regular groups},%
+plural={گروه های یکنواخت},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Singular groups}{}%
+{%
+\gls@defglossaryentry{Singular groups}%
+{%
+name={Singular groups},%
+sort={Singular groups},%
+type={acronym},%
+first={Singular groups},%
+firstplural={گروه های تکین},%
+text={Singular groups},%
+plural={گروه های تکین},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Unusable groups}{}%
+{%
+\gls@defglossaryentry{Unusable groups}%
+{%
+name={Unusable groups},%
+sort={Unusable groups},%
+type={acronym},%
+first={Unusable groups},%
+firstplural={گروه های غیر قابل استفاده},%
+text={Unusable groups},%
+plural={گروه های غیر قابل استفاده},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Bias}{}%
+{%
+\gls@defglossaryentry{Bias}%
+{%
+name={Bias},%
+sort={Bias},%
+type={acronym},%
+first={Bias},%
+firstplural={اریبی},%
+text={Bias},%
+plural={اریبی},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Mask Matrix}{}%
+{%
+\gls@defglossaryentry{Mask Matrix}%
+{%
+name={Mask Matrix},%
+sort={Mask Matrix},%
+type={acronym},%
+first={Mask Matrix},%
+firstplural={ماتریس نقاب},%
+text={Mask Matrix},%
+plural={ماتریس نقاب},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Expected Value}{}%
+{%
+\gls@defglossaryentry{Expected Value}%
+{%
+name={Expected Value},%
+sort={Expected Value},%
+type={acronym},%
+first={Expected Value},%
+firstplural={امید ریاضی},%
+text={Expected Value},%
+plural={امید ریاضی},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{LSB Plane}{}%
+{%
+\gls@defglossaryentry{LSB Plane}%
+{%
+name={LSB Plane},%
+sort={LSB Plane},%
+type={acronym},%
+first={LSB Plane},%
+firstplural={سطح کم ارزش ترین بیت},%
+text={LSB Plane},%
+plural={سطح کم ارزش ترین بیت},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Closed}{}%
+{%
+\gls@defglossaryentry{Closed}%
+{%
+name={Closed},%
+sort={Closed},%
+type={acronym},%
+first={Closed},%
+firstplural={بسته},%
+text={Closed},%
+plural={بسته},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Extrapolation}{}%
+{%
+\gls@defglossaryentry{Extrapolation}%
+{%
+name={Extrapolation},%
+sort={Extrapolation},%
+type={acronym},%
+first={Extrapolation},%
+firstplural={برون یابی},%
+text={Extrapolation},%
+plural={برون یابی},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Histogram Characteristic Function}{}%
+{%
+\gls@defglossaryentry{Histogram Characteristic Function}%
+{%
+name={Histogram Characteristic Function},%
+sort={Histogram Characteristic Function},%
+type={acronym},%
+first={Histogram Characteristic Function},%
+firstplural={تابع مشخصه هیستوگرام},%
+text={Histogram Characteristic Function},%
+plural={تابع مشخصه هیستوگرام},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Center of Mass}{}%
+{%
+\gls@defglossaryentry{Center of Mass}%
+{%
+name={Center of Mass},%
+sort={Center of Mass},%
+type={acronym},%
+first={Center of Mass},%
+firstplural={مرکز جرم},%
+text={Center of Mass},%
+plural={مرکز جرم},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{LSB Matching}{}%
+{%
+\gls@defglossaryentry{LSB Matching}%
+{%
+name={LSB Matching},%
+sort={LSB Matching},%
+type={acronym},%
+first={LSB Matching},%
+firstplural={تطابق کم ارزش ترین بیت},%
+text={LSB Matching},%
+plural={تطابق کم ارزش ترین بیت},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Closure of Sets}{}%
+{%
+\gls@defglossaryentry{Closure of Sets}%
+{%
+name={Closure of Sets},%
+sort={Closure of Sets},%
+type={acronym},%
+first={Closure of Sets},%
+firstplural={مجموعه های دریچه ای},%
+text={Closure of Sets},%
+plural={مجموعه های دریچه ای},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Cardinality}{}%
+{%
+\gls@defglossaryentry{Cardinality}%
+{%
+name={Cardinality},%
+sort={Cardinality},%
+type={acronym},%
+first={Cardinality},%
+firstplural={اندازه},%
+text={Cardinality},%
+plural={اندازه},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Correlation}{}%
+{%
+\gls@defglossaryentry{Correlation}%
+{%
+name={Correlation},%
+sort={Correlation},%
+type={acronym},%
+first={Correlation},%
+firstplural={همبستگی},%
+text={Correlation},%
+plural={همبستگی},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Subtractive Pixel Adjacency Matrix}{}%
+{%
+\gls@defglossaryentry{Subtractive Pixel Adjacency Matrix}%
+{%
+name={Subtractive Pixel Adjacency Matrix},%
+sort={Subtractive Pixel Adjacency Matrix},%
+type={acronym},%
+first={Subtractive Pixel Adjacency Matrix},%
+firstplural={پیکسل های تفریقی همسایه},%
+text={Subtractive Pixel Adjacency Matrix},%
+plural={پیکسل های تفریقی همسایه},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Transition Probability}{}%
+{%
+\gls@defglossaryentry{Transition Probability}%
+{%
+name={Transition Probability},%
+sort={Transition Probability},%
+type={acronym},%
+first={Transition Probability},%
+firstplural={احتمال انتقال},%
+text={Transition Probability},%
+plural={احتمال انتقال},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{High Pass}{}%
+{%
+\gls@defglossaryentry{High Pass}%
+{%
+name={High Pass},%
+sort={High Pass},%
+type={acronym},%
+first={High Pass},%
+firstplural={بالاگذر},%
+text={High Pass},%
+plural={بالاگذر},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Edge Detector}{}%
+{%
+\gls@defglossaryentry{Edge Detector}%
+{%
+name={Edge Detector},%
+sort={Edge Detector},%
+type={acronym},%
+first={Edge Detector},%
+firstplural={آشکارساز لبه},%
+text={Edge Detector},%
+plural={آشکارساز لبه},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Scale}{}%
+{%
+\gls@defglossaryentry{Scale}%
+{%
+name={Scale},%
+sort={Scale},%
+type={acronym},%
+first={Scale},%
+firstplural={مقیاس},%
+text={Scale},%
+plural={مقیاس},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Pattern recognition}{}%
+{%
+\gls@defglossaryentry{Pattern recognition}%
+{%
+name={Pattern recognition},%
+sort={Pattern recognition},%
+type={acronym},%
+first={Pattern recognition},%
+firstplural={تشخیص الگو},%
+text={Pattern recognition},%
+plural={تشخیص الگو},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Generalized Gaussian Distribution}{}%
+{%
+\gls@defglossaryentry{Generalized Gaussian Distribution}%
+{%
+name={Generalized Gaussian Distribution},%
+sort={Generalized Gaussian Distribution},%
+type={acronym},%
+first={Generalized Gaussian Distribution},%
+firstplural={توزیع گاوسی تعمیم یافته},%
+text={Generalized Gaussian Distribution},%
+plural={توزیع گاوسی تعمیم یافته},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Shape factor}{}%
+{%
+\gls@defglossaryentry{Shape factor}%
+{%
+name={Shape factor},%
+sort={Shape factor},%
+type={acronym},%
+first={Shape factor},%
+firstplural={پارامتر شکل},%
+text={Shape factor},%
+plural={پارامتر شکل},%
+description={},%
+descriptionplural={},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%

@@ -1,0 +1,4 @@
+ehsan@sandbox ~/gitolite-admin
+ % git commit -a -m "Adding gitweb permissions"
+[master 4d9e4bf] Adding gitweb permissions
+ 1 file changed, 4 insertions(+)

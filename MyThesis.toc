@@ -1,0 +1,47 @@
+\contentsline {chapter}{فهرست مطالب}{آ}{section*.1}
+\contentsline {chapter}{فهرست تصاویر}{د}{section*.3}
+\contentsline {chapter}{\chapternumberline {1}مفاهیم}{3}{chapter.1}
+\contentsline {section}{\numberline {1‏.‏1}کارساز وب چیست؟}{5}{section.1.1}
+\contentsline {section}{\numberline {1‏.‏2}مدیر پایگاه‌ داده مای‌اس‌کیو‌ال و زبان برنامه‌نویسی پی‌اچ‌پی}{6}{section.1.2}
+\contentsline {section}{\numberline {1‏.‏3}دلیل انتخاب گنو/لینوکس و توزیع اوبونتو}{7}{section.1.3}
+\contentsline {subsection}{\numberline {1‏.‏3‏.‏1}نگاهی مختصر بر تاریخچه گنو/لینوکس}{7}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1‏.‏3‏.‏2}ویژگی های سیستم عامل گنو/لینوکس}{7}{subsection.1.3.2}
+\contentsline {section}{\numberline {1‏.‏4}چه نیازی به نصب به صورت سند‌باکس است؟}{10}{section.1.4}
+\contentsline {section}{\numberline {1‏.‏5}ویرچوال‌باکس برای ایجاد ماشین مجازی}{11}{section.1.5}
+\contentsline {section}{\numberline {1‏.‏6}تنظیم اولیه ویرچوال‌باکس برای نصب اوبونتو سرور ۱۴٫۰۴}{14}{section.1.6}
+\contentsline {section}{\numberline {1‏.‏7}انتقال درگاه \lr { «Port Forwarding»}}{16}{section.1.7}
+\contentsline {section}{\numberline {1‏.‏8}نصب اوبونتو سرور ۱۴٫۰۴}{18}{section.1.8}
+\contentsline {section}{\numberline {1‏.‏9}چکیدهٔ فصل}{21}{section.1.9}
+\contentsline {chapter}{\chapternumberline {2}تنظیمات سندباکس و میزبان}{22}{chapter.2}
+\contentsline {section}{\numberline {2‏.‏1}اتصال به \lr {\lr {127.0.0.1}} با نامی دیگر}{22}{section.2.1}
+\contentsline {section}{\numberline {2‏.‏2}سیستم‌عامل گنو/لینوکس و اواس ده،}{23}{section.2.2}
+\contentsline {section}{\numberline {2‏.‏3}در سیستم‌عامل ویندوز}{24}{section.2.3}
+\contentsline {paragraph}{استفاده از یک میزبان محلی مزایای زیر را دارد،}{25}{paragraph*.19}
+\contentsline {section}{\numberline {2‏.‏4}اتصال به سندباکس با استفاده از اس‌اس‌اچ «SSH»}{28}{section.2.4}
+\contentsline {section}{\numberline {2‏.‏5} اتصال SSH در ویندوز:}{31}{section.2.5}
+\contentsline {section}{\numberline {2‏.‏6}نصب چند نرم‌افزار مورد نیاز برای پیکربندی سندباکس}{34}{section.2.6}
+\contentsline {section}{\numberline {2‏.‏7}اتصال پوشه اشتراکی در ویرچوال‌باکس}{36}{section.2.7}
+\contentsline {section}{\numberline {2‏.‏8}تنظیم و پیکربندی آپاچی}{41}{section.2.8}
+\contentsline {subsubsection}{\numberline {2‏.‏8‏.‏0‏.‏1}ویرایش فایل‌ها توسط sudoedit}{41}{subsubsection.2.8.0.1}
+\contentsline {chapter}{\chapternumberline {3}تنظیمات MySQl و PHP}{47}{chapter.3}
+\contentsline {section}{\numberline {3‏.‏1}پی‌اچ‌پی و تنظیمات مورد‌نیاز}{48}{section.3.1}
+\contentsline {section}{\numberline {3‏.‏2} تنظیم و استفاده از مای‌اس‌کیوال}{54}{section.3.2}
+\contentsline {chapter}{\chapternumberline {4}استفاده از اوراکل \lr {«MySql Workbrench»} }{59}{chapter.4}
+\contentsline {chapter}{\chapternumberline {5}ارسال رایانامه با اِگزیم \lr {«Exim»} }{62}{chapter.5}
+\contentsline {chapter}{\chapternumberline {6}مدیریت MySQL از طریق مرورگر}{69}{chapter.6}
+\contentsline {section}{\numberline {6‏.‏1}ساخت یک پیشخوان}{69}{section.6.1}
+\contentsline {section}{\numberline {6‏.‏2}نصب پی‌اچ‌پی مای‌ادمین \lr {«PHPMyAdmin»} }{70}{section.6.2}
+\contentsline {section}{\numberline {6‏.‏3}ساخت جداول و کاربران مورد نیاز در سندباکس}{76}{section.6.3}
+\contentsline {section}{\numberline {6‏.‏4}فایل پیشخوان}{78}{section.6.4}
+\contentsline {chapter}{\chapternumberline {7}مدیریت و وضعیت سرور}{81}{chapter.7}
+\contentsline {section}{\numberline {7‏.‏1}مدیریت سرور با ابزار گرافیکی}{83}{section.7.1}
+\contentsline {chapter}{\chapternumberline {8}افزودن قابلیتهای بیشتر به PHP}{88}{chapter.8}
+\contentsline {section}{\numberline {8‏.‏1}نصب چند ابزار برای مدیریت و نصب برخی اجزاء پی‌اچ‌پی}{89}{section.8.1}
+\contentsline {subsection}{\numberline {8‏.‏1‏.‏1}نصب و استفاده از کومپوزر «Composer»}{90}{subsection.8.1.1}
+\contentsline {chapter}{\chapternumberline {9}نصب و مدیریت کارساز Git}{92}{chapter.9}
+\contentsline {section}{\numberline {9‏.‏1}گیت «GIT» چیست؟}{92}{section.9.1}
+\contentsline {section}{\numberline {9‏.‏2} نصب و تنظیمات نرم‌افزار گیت‌وب «gitweb»}{98}{section.9.2}
+\contentsline {section}{\numberline {9‏.‏3}چارچوب کاری سیمفونی «Symfony»}{108}{section.9.3}
+\contentsline {section}{\numberline {9‏.‏4}چارچوب‌کاری کیک پی‌اچ‌پی CackePHP}{110}{section.9.4}
+\contentsline {section}{\numberline {9‏.‏5}نصب و اجرای وردپرس \lr {WordPress} برای آزمودن کارساز}{116}{section.9.5}
+\contentsline {section}{\numberline {9‏.‏6}نصب مدیر محتوای آزاد دروپال}{117}{section.9.6}

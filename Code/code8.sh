@@ -1,0 +1,1 @@
+ehsan@ETARCH ~ % cat ~/.ssh/id_rsa.pub | ssh -p2222 ehsan@sandbox.dev 'cat >> .ssh/authorized_keys'

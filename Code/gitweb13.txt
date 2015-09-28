@@ -1,0 +1,11 @@
+repo    gitolite-admin
+        RW+     =   local
+        ًR      =       gitweb
+        config gitweb.description = "gitolite administration"
+
+repo    testing
+        RW+     =   @all
+repo    dashboard
+        RW+     =       ehsan
+        ًR      =       gitweb
+        config gitweb.description = "Sandbox dashboard"

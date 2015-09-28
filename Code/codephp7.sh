@@ -1,0 +1,1 @@
+ ehsan@sandbox /etc/php5 % sudo touch /var/log/php_errors.log
